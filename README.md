@@ -4,7 +4,7 @@
 
 ### Developers
 ***
-Leo Ramirez, Vehonti Apofka, Justin Frank, Araz Ohanessian and Tari Okoya-Koren
+Leo Ramirez, Veohnti Afokpa, Justin Frank, Araz Ohanessian and Tari Okoya-Koren
 ***
 ### Description
 ***
